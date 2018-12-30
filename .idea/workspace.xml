@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078250cd-c01f-412a-ad22-ae37c8d840a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles-old.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +23,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="391" column="39" selection-start-line="391" selection-start-column="39" selection-end-line="391" selection-end-column="39" />
+            <state relative-caret-position="286">
+              <caret line="275" selection-start-line="275" selection-end-line="275" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="68" selection-start-line="68" selection-end-line="72" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -28,9 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-            </state>
+            <state relative-caret-position="-660" />
           </provider>
         </entry>
       </file>
@@ -44,13 +76,16 @@
       <list>
         <option value="$PROJECT_DIR$/aboutus.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/css/styles.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="817" />
-    <option name="width" value="1110" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="962" />
+    <option name="width" value="967" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -70,6 +105,18 @@
               <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
               <item name="conFusion" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="styles.less" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="styles.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -107,18 +154,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544888396029</updated>
       <workItem from="1544888397281" duration="7669000" />
-      <workItem from="1546169522740" duration="2632000" />
+      <workItem from="1546169522740" duration="6185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10301000" />
+    <option name="totallyTimeSpent" value="13854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="770" y="0" width="773" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1827957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18478261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -149,17 +196,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/css/styles-old.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="391" column="39" selection-start-line="391" selection-start-column="39" selection-end-line="391" selection-end-column="39" />
+        <state relative-caret-position="286">
+          <caret line="275" selection-start-line="275" selection-end-line="275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="68" selection-start-line="68" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
