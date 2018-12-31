@@ -50,4 +50,15 @@ body {
 #carouselButton {
   right: 0px;
   position: absolute;
-  botoom: 0px; }
+  bottom: 0px; }
+
+.modal .modal-header {
+  background-color: #512DA8; }
+  .modal .modal-header .modal-title {
+    color: #fffaf0; }
+
+.modal .modal-body {
+  background-color: #D1C4E9; }
+
+.modal .btn-secondary {
+  color: #fffaf0; }
